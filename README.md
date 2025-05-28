@@ -13,21 +13,13 @@
 ---
 
 ### 🚧 Selected Work
-
-- **Avalon:** Social deduction, implemented.
-- **Billy Bets:** Wagering, automated.
-- **Strike:** Various, consistently questionable.
-- **LU Decomposition in C++:** Linear algebra, the hard way.
-
----
-
-### 🎯 Interests
-
-- **Finance, mathematics:** Abstraction meets application.
-- **Soccer:** Strategy and chaos, 90 minutes at a time.
-- **Guitar:** Slow progress, open chords.
+- **Strike:** Betting as an asset class (YC).
+- **Avalon:** Created a legal AI bot that was pretty good and learned a lot (failed).
+- **Billy Bets:** Wagering, automated (left).
+- **LU Decomposition in C++:** Linear algebra harder than it needs to be.
 
 ---
+
 
 ### 📚 Reading Now
 
