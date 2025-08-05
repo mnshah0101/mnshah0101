@@ -21,11 +21,6 @@
 ---
 
 
-### 📚 Reading Now
-
-- _All of Statistics_ — Larry Wasserman  
-- _OSTEP (Operating Systems: Three Easy Pieces)_ — Remzi & Andrea Arpaci-Dusseau  
-- _Modern Poker Theory_ — Michael Acevedo
 
 ---
 
