@@ -1,7 +1,7 @@
 # mnshah0101
 
 **Student** @ Georgia Tech  
-**Research Intern** @ HeadTech
+**Researcher** @ Headlands Technologies
 
 
 
@@ -13,4 +13,4 @@
 ---
 
 `$ whoami`  
-mnshah0101. Writes code. Occasionally, it works.
+mnshah0101. I enjoy training LLMs and learning.
