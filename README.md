@@ -13,4 +13,4 @@
 ---
 
 `$ whoami`  
-mnshah0101. I enjoy training LLMs and learning.
+mnshah0101. I enjoy training LLMs. I also like learning about math and computers.
